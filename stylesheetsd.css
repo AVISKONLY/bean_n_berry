@@ -1,0 +1,117 @@
+body
+{
+	//background-image:url("https://www.olivegardendunstable.com/wp-content/uploads/2018/03/starterts-menu.jpg");
+	background-image:url("https://images6.alphacoders.com/450/450480.jpg");
+	opacity:0.8;
+	//background-image: url("https://i0.wp.com/www.textures4photoshop.com/tex/thumbs/italian-restaurant-menu-with-chalkboard-background-1449.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color:#408080;
+}
+
+
+.table
+{
+	//border:1px inset black;
+	position:absolute;
+	top:170px;
+	margin-left:150px;
+	background-color: #c0c0c0;
+}
+
+
+.title
+{
+//	border:1px inset black;
+	width:300px;
+	margin-left:550px;
+	margin-top:20px;
+	//padding:50px;
+	color:black;
+	font-size:50px;
+	text-align:center;
+	font-family:georgia;
+	//background-color:grey;
+}
+.pic
+{
+width:150px;
+height:100px;
+border:1px inset black;	
+}
+.name
+{
+width:400px;
+height:100px;
+border:1px inset black;	
+text-align:center;
+font-size:40px;
+color:green;
+}
+.amount
+{
+width:200px;
+height:100px;
+border:1px inset black;	
+font-size:40px;
+color:red;
+text-align:center;
+}
+.quantity
+{
+width:150px;
+height:100px;
+text-align:center;
+border:1px inset black;		
+	
+	
+	
+}
+.chkbox
+{
+width:100px;
+height:100px;
+border:1px inset black;		
+	
+	
+}
+#numbox
+{
+height:30px;
+width:70px;	
+//background-color:grey;	
+font-size:30px;
+text-align:center;
+color:green;
+}
+#chekbox
+{
+	width:30px;
+height:30px;
+margin-left:35px;
+color:red;
+}
+
+
+#button1
+{
+	display:block;
+	margin-left:600px;
+	
+	margin-top: 995px;
+	border: 1px inset #790604;
+	border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	//background-color:#808080;
+	background-color:white;
+	cursor: default;
+	text-decoration:none;
+}

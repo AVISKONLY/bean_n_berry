@@ -1,0 +1,190 @@
+body
+{
+	//background-image:url("https://www.olivegardendunstable.com/wp-content/uploads/2018/03/starterts-menu.jpg");
+	//background-image:url("https://s3.scoopwhoop.com/anj/cocktail/283069561.jpg");
+	opacity:0.7;
+	background-image: url("https://i0.wp.com/www.textures4photoshop.com/tex/thumbs/italian-restaurant-menu-with-chalkboard-background-1449.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	//background-color:#408080;
+}
+
+
+.title
+{
+color:white;
+//border:1px inset black;
+width:400px;
+font-size:50px;	
+margin-left:510px;
+text-align:center;
+text-decoration:underline;
+}
+.button
+{
+	display:block;
+	margin-left:600px;
+	
+	margin-top: 80px;
+	border: 1px inset #790604;
+	border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	//background-color:#808080;
+	background-color:white;
+	cursor: default;
+	text-decoration:none;
+}
+#but1
+{
+	display:block;
+	margin-left:450px;
+	
+	margin-top: 150px;
+	border: 1px inset #790604;
+	//border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	//background-color:#808080;
+	background-color:white;
+	cursor: default;
+	//text-decoration:none;
+}
+#but2
+{
+	display:block;
+	margin-left:650px;
+	height:25px;
+	margin-top: -46px;
+	border: 1px inset #790604;
+	//border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	//background-color:#808080;
+	background-color:white;
+	cursor: default;
+	//text-decoration:none;
+}
+#but3
+{
+	display:block;
+	margin-left:1100px;
+	
+	margin-top:300px ;
+	border: 1px inset #790604;
+	border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	background-color:#808080;
+	background-color:white;
+	cursor: default;
+	text-decoration:none;
+}
+#but4
+{
+	display:block;
+	margin-left:1100px;
+	
+	margin-top:5px ;
+	border: 1px inset #790604;
+	border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	background-color:#808080;
+	background-color:white;
+	cursor: default;
+	text-decoration:none;
+}
+#but5
+{
+	display:block;
+	margin-left:500px;
+	
+	margin-top:100px ;
+	border: 1px inset #790604;
+	//border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	background-color:#808080;
+}
+#but6
+{
+	display:block;
+	margin-left:700px;
+	height:25px;
+	margin-top: -46px;
+	border: 1px inset #790604;
+	//border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	background-color:white;
+}
+.lbl1
+{
+	display:block;
+	margin-left:500px;
+	
+	margin-top:30px ;
+	border: 1px inset #790604;
+	//border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	background-color:#808080;
+}
+.lbl2
+{
+	display:block;
+	margin-left:700px;
+	height:25px;
+	margin-top: -46px;
+	border: 1px inset #790604;
+	//border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	background-color:white;
+}
