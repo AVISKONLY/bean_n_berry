@@ -1,0 +1,26 @@
+create table order_menu
+  (
+  orderno number(10) primary key,
+  billno number(10),
+   id number(10),
+   qty number(10),
+   amt number(10),
+   dt date,
+   tableno number(10),
+   name varchar2(200)
+  );
+
+create table menu
+  2  (
+  3  id number(10) primary key,
+  4  name varchar2(100),
+  5  cat varchar2(100),
+  6  price number(10)
+  7  );
+
+create table admin
+  2  (
+  3  uname varchar2(200) primary key,
+  4  pass varchar2(200)
+  5  );
+
