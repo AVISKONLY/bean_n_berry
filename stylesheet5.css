@@ -1,0 +1,246 @@
+body
+{
+	
+	background-image:url("http://restaurant-gutenberg.at/wp-content/uploads/2014/05/special_hero_1.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	//background-color:#408080;
+}
+#title
+{
+	display:block;
+	text-decoration:underline;
+//border:1px inset black;	
+//color:#00008D;
+color:green;
+width:200px;
+text-align:center;
+margin-top:20px;
+margin-left:200px;
+font-size:30px;	
+font-weight:bold;
+}
+#frm
+{
+	//border:5px inset #A9A9A9;
+	border-radius:20px;
+	//background-color:white;
+	width:650px;
+	margin-left:350px;
+	margin-top:150px;
+}
+#usr
+{   
+	display:block;
+	margin-top:40px;
+margin-left:80px;
+	font-size:25px;
+	color:green;
+	//text-align:center;
+	width:200px;
+	//border:2px inset blue;
+	//border-radius:10px;
+}
+#inusr
+{
+	
+	display:block;
+	margin-top:10px;
+    margin-left:80px;
+	font-size:30px;
+	color:green;
+	text-align:center;
+	width:400px;
+	border-bottom:1px inset black;
+	//border-radius:10px;
+}
+#pass
+{
+	display:block;
+margin-top:-10px;
+margin-left:80px;
+	font-size:25px;
+	color:green;
+	//text-align:center;
+	width:200px;
+	//border:2px inset blue;
+//border-radius:10px;
+}
+#inpass
+{
+	display:block;
+	margin-top:10px;
+margin-left:80px;
+	font-size:30px;
+	color:green;
+	text-align:center;
+	width:400px;
+	border-bottom:1px inset black;
+	//border-radius:10px;
+}
+.button
+{
+	display:block;
+	margin-left:230px;
+	
+	margin-top: 70px;
+	margin-bottom:50px;
+	font-size:20px;
+	//border: 3px inset #790604;
+	border: 3px inset green;
+	border-radius:100px;
+	width:170px;
+	padding:5px;
+	text-align:center;
+	font-family:tahoma;
+	//color:#790604;
+	color:black;
+	background-color:#808080;
+	cursor: default;
+	text-decoration:none;
+}
+
+#button1
+{
+	display:block;
+	margin-left:570px;
+	
+	margin-top: 530px;
+	margin-bottom:50px;
+	font-size:20px;
+	//border: 3px inset #790604;
+	border: 3px inset green;
+	border-radius:100px;
+	width:170px;
+	padding:5px;
+	text-align:center;
+	font-family:tahoma;
+	//color:#790604;
+	color:black;
+	background-color:#808080;
+	cursor: default;
+	text-decoration:none;
+}
+
+#hi
+{
+display:block;	
+//border: 1px inset black;	
+width:400px;
+margin-left:500px;
+margin-top:30px;
+font-size:40px;	
+text-align:center;
+	
+}
+#orders
+{
+	border: 2px solid black;	
+border-radius:50px;
+border-style:inset;
+width:200px;	
+height:200px;	
+line-height:200px;	
+display:block;	
+text-align:center;
+position:fixed;
+top:140px;
+left:450px;	
+
+font-size:30px;	
+color:#D3D3D3;
+font-style:italic;
+text-decoration:none;
+background-color:#6B8E23;
+//background-color:#800000;
+}
+#orders:hover{
+	opacity:0.7;
+}
+
+#add
+{
+border: 2px solid black;
+border-radius:50px;
+border-style:inset;
+width:200px;	
+height:200px;
+line-height:200px;		
+display:block;	
+text-align:center;
+position:fixed;
+top:140px;
+left:700px;
+
+
+color:#D3D3D3;
+font-style:italic;
+font-size:30px;
+text-decoration:none;
+background-color:#6B8E23;
+
+}
+#add:hover{
+	opacity:0.7;
+}
+
+#rem
+{
+	border: 2px solid black;	
+border-radius:50px;
+border-style:inset;
+width:200px;	
+height:200px;	
+line-height:200px;	
+display:block;	
+text-align:center;
+position:fixed;
+top:370px;
+left:450px;	
+
+font-size:30px;	
+color:#D3D3D3;
+font-style:italic;
+text-decoration:none;
+background-color:#6B8E23	;
+//background-color:#800000;
+}
+#rem:hover{
+	opacity:0.7;
+}
+	
+
+#reports
+{
+	border: 2px solid black;
+border-radius:50px;
+border-style:inset;
+width:200px;	
+height:200px;
+line-height:200px;		
+display:block;	
+text-align:center;
+position:fixed;
+top:370px;
+left:700px;
+
+
+color:#D3D3D3;
+font-style:italic;
+font-size:30px;
+text-decoration:none;
+background-color:#6B8E23;
+
+}
+#reports:hover{
+	opacity:0.7;
+
+	
+}
+
+
+
+
+

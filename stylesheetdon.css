@@ -1,0 +1,54 @@
+body
+{
+	//background-color: rgb(153,217,234);
+	//background-image: url("https://wallpapers-house.com/data/out/7/wallpaper2you_149712.jpg");
+    background-image:url("https://atgbcentral.com/data/out/175/5526603-smiley-images.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+.title
+{
+color:#c0c0c0;
+//border:1px inset black;
+width:400px;
+font-size:50px;	
+margin-left:300px;
+margin-top:170px;
+text-align:center;
+text-decoration:underline;
+}
+#title1
+{
+color:#400040;
+//border:1px inset black;
+width:500px;
+font-size:50px;	
+margin-left:200px;
+margin-top:200px;
+text-align:center;
+text-decoration:underline;
+}
+#button1
+{
+	display:block;
+	margin-left:420px;
+	
+	margin-top: 10px;
+	//margin-bottom:50px;
+	font-size:20px;
+	//border: 3px inset #790604;
+	border: 3px inset green;
+	border-radius:100px;
+	width:50px;
+	padding:5px;
+	text-align:center;
+	font-family:tahoma;
+	//color:#790604;
+	color:black;
+	//background-color:#808080;
+	cursor: default;
+	text-decoration:none;
+}

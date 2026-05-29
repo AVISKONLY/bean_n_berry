@@ -1,0 +1,118 @@
+body
+{
+	//background-color: rgb(153,217,234);
+	//background-image: url("https://image.freepik.com/free-photo/top-view-bowl-with-lentils-variety-condiments_1220-423.jpg");
+	//background-image: url("https://i0.wp.com/www.textures4photoshop.com/tex/thumbs/italian-restaurant-menu-with-chalkboard-background-1449.jpg");
+	//background-image:url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-food-fruit-blue-background-beautiful-image_12398.jpg");
+    background-image:url("https://us.123rf.com/450wm/konstanttin/konstanttin1509/konstanttin150900015/45040455-art-italian-home-cooking-background-restaurant-week.jpg?ver=6");
+//background-image:url("https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+
+/*================================================  FORM 1    ========================================================*/
+
+
+#logo
+{
+display: block; 
+padding:10px;
+position:absolute;
+top:150px;
+left:550px;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+.button
+{
+	display:block;
+	margin-left:600px;
+	
+	margin-top: 370px;
+	border: 1px inset #790604;
+	border-radius: 10px;
+	width:100px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	background-color:#808080;
+	cursor: default;
+	text-decoration:none;
+}
+.button:hover
+{
+opacity:0.8;	
+}
+
+
+
+/*============================================  FORM 2 ================================================================*/
+
+#divuser
+{
+border: 2px solid black;	
+border-radius:50px;
+border-style:inset;
+width:200px;	
+height:200px;	
+line-height:200px;	
+display:block;	
+text-align:center;
+position:fixed;
+top:250px;
+left:400px;	
+
+font-size:30px;	
+color:black;
+font-style:italic;
+text-decoration:none;
+background-color:#FF6347;
+//background-color:#800000;
+}
+#divuser:hover{
+	opacity:0.7;
+}
+#divmanager
+{
+border: 2px solid black;
+border-radius:50px;
+border-style:inset;
+width:200px;	
+height:200px;
+line-height:200px;		
+display:block;	
+text-align:center;
+position:fixed;
+top:250px;
+left:750px;
+
+
+color:black;
+font-style:italic;
+font-size:30px;
+text-decoration:none;
+background-color:rgb(112,146,190);
+
+}
+#divmanager:hover{
+	opacity:0.7;
+}
+
+
+
+
+

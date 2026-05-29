@@ -1,0 +1,165 @@
+body
+{
+	//background-image:url("https://www.olivegardendunstable.com/wp-content/uploads/2018/03/starterts-menu.jpg");
+//	background-image:url("https://st3.depositphotos.com/5653638/17724/i/1600/depositphotos_177249032-stock-photo-sarson-saag-makki-roti-popular.jpg");
+	opacity:0.9;
+	background-image: url("https://food-images.files.bbci.co.uk/food/recipes/harissa_lamb_with_92207_16x9.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color:#408080;
+}
+
+
+.table
+{
+	//border:1px inset black;
+	position:absolute;
+	top:170px;
+	margin-left:150px;
+	background-color: #c0c0c0;
+}
+
+
+.title
+{
+//	border:1px inset black;
+	width:300px;
+	margin-left:550px;
+	margin-top:20px;
+	//padding:50px;
+	color:#0080c0;
+	font-size:50px;
+	text-align:center;
+	font-family:georgia;
+	//background-color:grey;
+}
+.pic
+{
+width:150px;
+height:100px;
+border:1px inset black;	
+}
+.name
+{
+width:400px;
+height:100px;
+border:1px inset black;	
+text-align:center;
+font-size:40px;
+color:green;
+}
+.amount
+{
+width:200px;
+height:100px;
+border:1px inset black;	
+font-size:40px;
+color:red;
+text-align:center;
+}
+.quantity
+{
+width:150px;
+height:100px;
+text-align:center;
+border:1px inset black;		
+	
+	
+	
+}
+.chkbox
+{
+width:100px;
+height:100px;
+border:1px inset black;		
+	
+	
+}
+#numbox
+{
+height:30px;
+width:70px;	
+//background-color:grey;	
+font-size:30px;
+text-align:center;
+color:green;
+}
+#chekbox
+{
+	width:30px;
+height:30px;
+margin-left:35px;
+color:red;
+}
+#veg
+{
+border: 2px solid black;	
+border-radius:50px;
+border-style:inset;
+width:300px;	
+height:250px;	
+line-height:200px;	
+display:block;	
+text-align:center;
+position:fixed;
+top:200px;
+//left:400px;	
+left:400px;
+font-size:30px;	
+color:#0080c0;
+font-style:italic;
+text-decoration:none;
+background-color:#dfdfdf;
+//background-color:#800000;
+}
+#veg:hover{
+	opacity:0.8;
+}
+#non-veg
+{
+border: 2px solid black;
+border-radius:50px;
+border-style:inset;
+width:300px;	
+height:250px;
+line-height:200px;		
+display:block;	
+text-align:center;
+position:fixed;
+top:200px;
+left:750px;
+//left:700px;
+
+color:#0080c0;
+font-style:italic;
+font-size:30px;
+text-decoration:none;
+background-color:#dfdfdf;
+//background-color:#800000;
+
+}
+#non-veg:hover{
+	opacity:0.8;
+}
+#button1
+{
+	display:block;
+	margin-left:600px;
+	
+   margin-top: 2000px;
+	border: 1px inset #790604;
+	border-radius: 10px;
+	font-size:20px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	font-family:tahoma;
+	color:#790604;
+	
+	//background-color:#808080;
+	background-color:white;
+	cursor: default;
+	text-decoration:none;
+}
